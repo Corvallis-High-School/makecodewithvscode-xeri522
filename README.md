@@ -1,4 +1,5 @@
- 
+ # [Instructions](instructions.md) for this assignment
+
 
 
 > Open this page at [https://randychs.github.io/randomsprite/](https://randychs.github.io/randomsprite/)
